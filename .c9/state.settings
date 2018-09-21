@@ -1,0 +1,381 @@
+{
+    "console": {
+        "@expanded": true,
+        "@height": "153",
+        "@maximized": "false",
+        "json()": {
+            "meta": {
+                "accessList": [
+                    "tab1",
+                    "tab2"
+                ]
+            },
+            "name": "pane1",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab1",
+                    "path": "",
+                    "className": [
+                        "tab1"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1534786337785
+                        },
+                        "filter": true,
+                        "title": "bash - \"openrov\"",
+                        "tooltip": "bash - \"openrov\"",
+                        "terminal": {
+                            "id": "devel_934",
+                            "cwd": "",
+                            "width": 1102,
+                            "height": 127
+                        }
+                    },
+                    "editorType": "terminal",
+                    "active": true
+                },
+                {
+                    "type": "tab",
+                    "name": "tab2",
+                    "path": "",
+                    "className": [],
+                    "document": {
+                        "title": "Immediate",
+                        "meta": {},
+                        "filter": true,
+                        "changed": false
+                    },
+                    "editorType": "immediate",
+                    "active": false
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "experiments": {
+        "@@enabled": true,
+        "@git": true,
+        "@plugins": true,
+        "@sdk": true
+    },
+    "ext": {
+        "counters": {
+            "@ace": 1,
+            "@acestatus": 1,
+            "@divider": 4,
+            "@document": 9,
+            "@form": 5,
+            "@menu": 5,
+            "@menuitem": 13,
+            "@pane": 2,
+            "@session": 7,
+            "@tab": 9,
+            "@undoManager": 9,
+            "@welcome": 1
+        }
+    },
+    "findinfiles": {
+        "@console": "true",
+        "@matchcase": "false",
+        "@regex": "false",
+        "@wholeword": "false"
+    },
+    "menus": {
+        "@minimized": "false"
+    },
+    "nak": {
+        "@installed": true
+    },
+    "panecycle": {
+        "json()": [
+            "tab6",
+            "tab1"
+        ]
+    },
+    "panels": {
+        "@active-left": "tree",
+        "@width-left": 308,
+        "commands.panel": {
+            "@enabled": "true",
+            "@name": "commands.panel"
+        },
+        "debugger": {
+            "@enabled": "true",
+            "@name": "debugger"
+        },
+        "navigate": {
+            "@enabled": "true",
+            "@name": "navigate"
+        },
+        "outline": {
+            "@enabled": "true",
+            "@name": "outline"
+        },
+        "scm": {
+            "@enabled": "true",
+            "@name": "scm"
+        },
+        "tree": {
+            "@enabled": "true",
+            "@name": "tree"
+        }
+    },
+    "projecttree": {
+        "@scrollpos": 1824,
+        "@showfs": true,
+        "expanded": {
+            "json()": [
+                "/",
+                "/cockpit/linux/afro_firmware",
+                "/cockpit/src",
+                "/arduino",
+                "/arduino/OpenROV",
+                "/cockpit"
+            ]
+        }
+    },
+    "tabs": {
+        "json()": {
+            "focus": "/cockpit/src/cockpit.js",
+            "meta": {
+                "accessList": [
+                    "tab6",
+                    "tab7",
+                    "tab8",
+                    "tab0",
+                    "tab3",
+                    "tab4",
+                    "tab5"
+                ]
+            },
+            "name": "pane0",
+            "nodes": [
+                {
+                    "type": "tab",
+                    "name": "tab0",
+                    "path": "",
+                    "className": [
+                        "tab0"
+                    ],
+                    "document": {
+                        "filter": true,
+                        "title": "Welcome",
+                        "welcome": {},
+                        "hash": "67452301efcdab8998badcfe10325476c3d2e1f0",
+                        "meta": {
+                            "welcome": true,
+                            "timestamp": 1534786337779
+                        },
+                        "changed": false
+                    },
+                    "editorType": "welcome",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab3",
+                    "path": "/cockpit/package.json",
+                    "className": [
+                        "tab3"
+                    ],
+                    "document": {
+                        "filter": true,
+                        "title": "package.json",
+                        "tooltip": "/cockpit/package.json",
+                        "ace": {
+                            "folds": [],
+                            "scrolltop": 388,
+                            "scrollleft": 0,
+                            "selection": {
+                                "start": {
+                                    "row": 0,
+                                    "column": 0
+                                },
+                                "end": {
+                                    "row": 0,
+                                    "column": 0
+                                },
+                                "isBackwards": true
+                            },
+                            "options": {
+                                "guessTabSize": true,
+                                "useWrapMode": false,
+                                "wrapToView": true
+                            },
+                            "firstLineState": {
+                                "row": 26,
+                                "state": "start",
+                                "mode": "ace/mode/json"
+                            }
+                        },
+                        "hash": "78a9f1ce9d5eff18c33fa00e14c7e541ce114de0",
+                        "meta": {
+                            "timestamp": 1444085660000
+                        },
+                        "changed": false
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab4",
+                    "path": "/cockpit/src/static/package.json",
+                    "className": [
+                        "tab4"
+                    ],
+                    "document": {
+                        "filter": true,
+                        "title": "package.json",
+                        "tooltip": "/cockpit/src/static/package.json",
+                        "ace": {
+                            "folds": [],
+                            "scrolltop": 0,
+                            "scrollleft": 0,
+                            "selection": {
+                                "start": {
+                                    "row": 0,
+                                    "column": 0
+                                },
+                                "end": {
+                                    "row": 0,
+                                    "column": 0
+                                },
+                                "isBackwards": true
+                            },
+                            "options": {
+                                "guessTabSize": true,
+                                "useWrapMode": false,
+                                "wrapToView": true
+                            },
+                            "firstLineState": 0
+                        },
+                        "hash": "a55f6b703eb72e7b65abe19f882732b857a838f8",
+                        "meta": {
+                            "timestamp": 1444085660000
+                        },
+                        "changed": false
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab5",
+                    "path": "/cockpit/src/app.js",
+                    "className": [
+                        "tab5"
+                    ],
+                    "document": {
+                        "filter": true,
+                        "title": "app.js",
+                        "tooltip": "/cockpit/src/app.js",
+                        "ace": {
+                            "folds": [],
+                            "scrolltop": 38,
+                            "scrollleft": 0,
+                            "selection": {
+                                "start": {
+                                    "row": 30,
+                                    "column": 0
+                                },
+                                "end": {
+                                    "row": 30,
+                                    "column": 0
+                                },
+                                "isBackwards": false
+                            },
+                            "options": {
+                                "guessTabSize": true,
+                                "useWrapMode": false,
+                                "wrapToView": true
+                            },
+                            "firstLineState": 0
+                        },
+                        "hash": "bce79eec17a561358be76da67a72b5465579c8a9",
+                        "meta": {
+                            "timestamp": 1444085660000
+                        },
+                        "changed": false
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab6",
+                    "path": "/cockpit/src/cockpit.js",
+                    "className": [
+                        "tab6",
+                        "focus"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1444085660000
+                        },
+                        "filter": true,
+                        "title": "cockpit.js",
+                        "tooltip": "/cockpit/src/cockpit.js",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": true
+                },
+                {
+                    "type": "tab",
+                    "name": "tab7",
+                    "path": "/arduino/OpenROV/OpenROV.ino",
+                    "className": [
+                        "tab7"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1443815633000
+                        },
+                        "filter": true,
+                        "title": "OpenROV.ino",
+                        "tooltip": "/arduino/OpenROV/OpenROV.ino",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                },
+                {
+                    "type": "tab",
+                    "name": "tab8",
+                    "path": "/arduino/OpenROV/CAltServo.cpp",
+                    "className": [
+                        "tab8"
+                    ],
+                    "document": {
+                        "changed": false,
+                        "meta": {
+                            "timestamp": 1443815633000
+                        },
+                        "filter": true,
+                        "title": "CAltServo.cpp",
+                        "tooltip": "/arduino/OpenROV/CAltServo.cpp",
+                        "ace": {}
+                    },
+                    "editorType": "ace",
+                    "active": false
+                }
+            ],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "tree_selection": {
+        "json()": [
+            "/cockpit/src/cockpit.js"
+        ]
+    }
+}
